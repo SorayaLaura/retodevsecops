@@ -1,0 +1,14 @@
+{
+  "name": "retodevsecops",
+  "version": "1.0.0",
+  "description": "Aplicación simple Node.js para reto DevSecOps",
+  "main": "Node.js",
+  "scripts": {
+    "start": "node Node.js"
+  },
+  "author": "Soraya Laura Chuquimia Alejo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
